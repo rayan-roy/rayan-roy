@@ -11,4 +11,6 @@
 - ⚡ Fun fact: I can speak in 4 languages (English, Hindi, Bengali, Gujarati)
 
 #### I love connecting with new people and hearing there stories.
-Feel free to say hi and connect with me
+Feel free to say hi and connect with me <a href="https://www.linkedin.com/in/rayan-roy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rayan-roy" height="30" width="40" /></a>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rayan-roy&show_icons=true alt=rayan-roy /> </p>
