@@ -13,5 +13,3 @@
 
 #### I love connecting with new people and hearing there stories.
 Feel free to say hi and connect with me
-
-[![](https://img.shields.io/badge/LinkedIn-rayan-roy-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rayan-roy/)
